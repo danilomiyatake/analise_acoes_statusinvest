@@ -1,0 +1,514 @@
+codigo;nome da empresa;cnpj;segmento;setor
+AALR3;CENTRO DE IMAGEM DIAGNOSTICOS S.A.;42.771.949/0001-35;Serv.Méd.Hospit..Análises e Diagnósticos;Saúde
+ABCB4;BCO ABC BRASIL S.A.;28.195.667/0001-06;Bancos;Financeiro
+ABEV3;AMBEV S.A.;07.526.557/0001-00;Cervejas e Refrigerantes;Consumo não Cíclico
+AERI3;AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S/A;12.528.708/0001-07;Máq. e Equip. Industriais;Bens Industriais
+AESB3;AES BRASIL ENERGIA S.A.;37.663.076/0001-07;Energia Elétrica;Utilidade Pública
+AFLT3;AFLUENTE TRANSMISSÃO DE ENERGIA ELÉTRICA S/A;10.338.320/0001-00;Energia Elétrica;Utilidade Pública
+AGRO3;BRASILAGRO - CIA BRAS DE PROP AGRICOLAS;07.628.528/0001-59;Agricultura;Consumo não Cíclico
+AGXY3;AGROGALAXY PARTICIPAÇÕES S.A.;21.240.146/0001-84;Agricultura;Consumo não Cíclico
+AHEB3;SAO PAULO TURISMO S.A.;62.002.886/0001-60;Produção de Eventos e Shows;Consumo Cíclico
+AHEB5;SAO PAULO TURISMO S.A.;62.002.886/0001-60;Produção de Eventos e Shows;Consumo Cíclico
+AHEB6;SAO PAULO TURISMO S.A.;62.002.886/0001-60;Produção de Eventos e Shows;Consumo Cíclico
+ALLD3;ALLIED TECNOLOGIA S.A.;20.247.322/0001-47;Eletrodomésticos;Consumo Cíclico
+ALPA3;ALPARGATAS S.A.;61.079.117/0001-05;Calçados;Consumo Cíclico
+ALPA4;ALPARGATAS S.A.;61.079.117/0001-05;Calçados;Consumo Cíclico
+ALPK3;ALLPARK EMPREENDIMENTOS PARTICIPACOES SERVICOS S.A;60.537.263/0001-66;Serviços Diversos;Bens Industriais
+ALSO3;ALIANSCE SONAE SHOPPING CENTERS S.A.;05.878.397/0001-32;Exploração de Imóveis;Financeiro
+ALUP11;ALUPAR INVESTIMENTO S/A;08.364.948/0001-38;Energia Elétrica;Utilidade Pública
+ALUP3;ALUPAR INVESTIMENTO S/A;08.364.948/0001-38;Energia Elétrica;Utilidade Pública
+ALUP4;ALUPAR INVESTIMENTO S/A;08.364.948/0001-38;Energia Elétrica;Utilidade Pública
+AMAR3;MARISA LOJAS S.A.;61.189.288/0001-89;Tecidos. Vestuário e Calçados;Consumo Cíclico
+AMBP3;AMBIPAR PARTICIPACOES E EMPREENDIMENTOS S/A;12.648.266/0001-24;Água e Saneamento;Utilidade Pública
+AMER3;AMERICANAS S.A;00.776.574/0001-56;Produtos Diversos;Consumo Cíclico
+ANIM3;ANIMA HOLDING S.A.;09.288.252/0001-32;Serviços Educacionais;Consumo Cíclico
+APER3;ALPER CONSULTORIA E CORRETORA DE SEGUROS S.A.;11.721.921/0001-60;Corretoras de Seguros e Resseguros;Financeiro
+APTI4;SIDERURGICA J. L. ALIPERTI S.A.;61.156.931/0001-78;Agricultura;Consumo não Cíclico
+ARML3;ARMAC LOCAÇÃO. LOGÍSTICA E SERVIÇOS S.A.;00.242.184/0001-04;Máq. e Equip. Industriais;Bens Industriais
+ARZZ3;AREZZO INDÚSTRIA E COMÉRCIO S.A.;16.590.234/0001-76;Tecidos. Vestuário e Calçados;Consumo Cíclico
+ASAI3;SENDAS DISTRIBUIDORA S.A.;06.057.223/0001-71;Alimentos;Consumo não Cíclico
+ATMP3;ATMA PARTICIPAÇÕES S.A.;04.032.433/0001-80;Serviços Diversos;Bens Industriais
+ATOM3;ATOM EMPREENDIMENTOS E PARTICIPAÇÕES S.A.;00.359.742/0001-08;Outros;Outros
+AURE3;AUREN ENERGIA S.A.;28.594.234/0001-23;Energia Elétrica;Utilidade Pública
+AVLL3;ALPHAVILLE S.A.;16.811.931/0001-00;Incorporações;Consumo Cíclico
+AZEV3;AZEVEDO E TRAVASSOS S.A.;61.351.532/0001-68;Construção Pesada;Bens Industriais
+AZEV4;AZEVEDO E TRAVASSOS S.A.;61.351.532/0001-68;Construção Pesada;Bens Industriais
+AZUL4;AZUL S.A.;09.305.994/0001-29;Transporte Aéreo;Bens Industriais
+B3SA3;B3 S.A. - BRASIL. BOLSA. BALCÃO;09.346.601/0001-25;Serviços Financeiros Diversos;Financeiro
+BAHI3;BAHEMA EDUCAÇÃO S.A.;45.987.245/0001-92;Serviços Educacionais;Consumo Cíclico
+BALM3;BAUMER S.A.;61.374.161/0001-30;Equipamentos;Saúde
+BALM4;BAUMER S.A.;61.374.161/0001-30;Equipamentos;Saúde
+BAUH4;EXCELSIOR ALIMENTOS S.A.;95.426.862/0001-97;Carnes e Derivados;Consumo não Cíclico
+BAZA3;BCO AMAZONIA S.A.;04.902.979/0001-44;Bancos;Financeiro
+BBAS11;BCO BRASIL S.A.;000000000191;Bancos;Financeiro
+BBAS3;BCO BRASIL S.A.;000000000191;Bancos;Financeiro
+BBDC3;BCO BRADESCO S.A.;60.746.948/0001-12;Bancos;Financeiro
+BBDC4;BCO BRADESCO S.A.;60.746.948/0001-12;Bancos;Financeiro
+BBSE3;BB SEGURIDADE PARTICIPAÇÕES S.A.;17.344.597/0001-94;Seguradoras;Financeiro
+BDLL3;BARDELLA S.A. INDUSTRIAS MECANICAS;60.851.615/0001-53;Máq. e Equip. Industriais;Bens Industriais
+BDLL4;BARDELLA S.A. INDUSTRIAS MECANICAS;60.851.615/0001-53;Máq. e Equip. Industriais;Bens Industriais
+BEEF3;MINERVA S.A.;67.620.377/0001-14;Carnes e Derivados;Consumo não Cíclico
+BEES3;BANESTES S.A. - BCO EST ESPIRITO SANTO;28.127.603/0001-78;Bancos;Financeiro
+BEES4;BANESTES S.A. - BCO EST ESPIRITO SANTO;28.127.603/0001-78;Bancos;Financeiro
+BGIP3;BCO ESTADO DE SERGIPE S.A. - BANESE;13.009.717/0001-46;Bancos;Financeiro
+BGIP4;BCO ESTADO DE SERGIPE S.A. - BANESE;13.009.717/0001-46;Bancos;Financeiro
+BIDI11;BANCO INTER S.A.;00.416.968/0001-01;Bancos;Financeiro
+BIDI12;BANCO INTER S.A.;00.416.968/0001-01;Bancos;Financeiro
+BIDI3;BANCO INTER S.A.;00.416.968/0001-01;Bancos;Financeiro
+BIDI4;BANCO INTER S.A.;00.416.968/0001-01;Bancos;Financeiro
+BIOM3;BIOMM S.A.;04.752.991/0001-10;Medicamentos e Outros Produtos;Saúde
+BKBR3;ZAMP S.A.;13.574.594/0001-96;Restaurante e Similares;Consumo Cíclico
+BLAU3;BLAU FARMACÊUTICA S.A.;58.430.828/0001-60;Medicamentos e Outros Produtos;Saúde
+BLUT3;BLUE TECH SOLUTIONS E.Q.I. S;60.637.238/0001-54;Outros;Outros
+BLUT4;BLUE TECH SOLUTIONS E.Q.I. S;60.637.238/0001-54;Outros;Outros
+BMEB3;BCO MERCANTIL DO BRASIL S.A.;17.184.037/0001-10;Bancos;Financeiro
+BMEB4;BCO MERCANTIL DO BRASIL S.A.;17.184.037/0001-10;Bancos;Financeiro
+BMGB4;BANCO BMG S.A.;61.186.680/0001-74;Bancos;Financeiro
+BMIN3;BCO MERCANTIL DE INVESTIMENTOS S.A.;34.169.557/0001-72;Bancos;Financeiro
+BMIN4;BCO MERCANTIL DE INVESTIMENTOS S.A.;34.169.557/0001-72;Bancos;Financeiro
+BMKS3;BICICLETAS MONARK S.A.;56.992.423/0001-90;Bicicletas;Consumo Cíclico
+BMOB3;BEMOBI MOBILE TECH S.A.;09.042.817/0001-05;Programas e Serviços;Tecnologia da Informação
+BNBR3;BCO NORDESTE DO BRASIL S.A.;07.237.373/0001-20;Bancos;Financeiro
+BOAS3;BOA VISTA SERVIÇOS S.A.;11.725.176/0001-27;Serviços Financeiros Diversos;Financeiro
+BOBR3;BOMBRIL S.A.;50.564.053/0001-03;Produtos de Limpeza;Consumo não Cíclico
+BOBR4;BOMBRIL S.A.;50.564.053/0001-03;Produtos de Limpeza;Consumo não Cíclico
+BPAC11;BCO BTG PACTUAL S.A.;30.306.294/0001-45;Bancos;Financeiro
+BPAC3;BCO BTG PACTUAL S.A.;30.306.294/0001-45;Bancos;Financeiro
+BPAC5;BCO BTG PACTUAL S.A.;30.306.294/0001-45;Bancos;Financeiro
+BPAN4;BCO PAN S.A.;59.285.411/0001-13;Bancos;Financeiro
+BPAR3;BCO ESTADO DO PARA S.A.;04.913.711/0001-08;Bancos;Financeiro
+BRAP3;BRADESPAR S.A.;03.847.461/0001-92;Minerais Metálicos;Materiais Básicos
+BRAP4;BRADESPAR S.A.;03.847.461/0001-92;Minerais Metálicos;Materiais Básicos
+BRBI11;BR ADVISORY PARTNERS PARTICIPAÇÕES S.A.;10.739.356/0001-03;Bancos;Financeiro
+BRFS3;BRF S.A.;01.838.723/0001-27;Carnes e Derivados;Consumo não Cíclico
+BRGE11;CONSORCIO ALFA DE ADMINISTRACAO S.A.;17.193.806/0001-46;Seguradoras;Financeiro
+BRGE12;CONSORCIO ALFA DE ADMINISTRACAO S.A.;17.193.806/0001-46;Seguradoras;Financeiro
+BRGE3;CONSORCIO ALFA DE ADMINISTRACAO S.A.;17.193.806/0001-46;Seguradoras;Financeiro
+BRGE5;CONSORCIO ALFA DE ADMINISTRACAO S.A.;17.193.806/0001-46;Seguradoras;Financeiro
+BRGE6;CONSORCIO ALFA DE ADMINISTRACAO S.A.;17.193.806/0001-46;Seguradoras;Financeiro
+BRGE7;CONSORCIO ALFA DE ADMINISTRACAO S.A.;17.193.806/0001-46;Seguradoras;Financeiro
+BRGE8;CONSORCIO ALFA DE ADMINISTRACAO S.A.;17.193.806/0001-46;Seguradoras;Financeiro
+BRIT3;BRISANET PARTICIPAÇÕES S.A.;19.796.586/0001-70;Telecomunicações;Comunicações
+BRIV3;BCO ALFA DE INVESTIMENTO S.A.;60.770.336/0001-65;Bancos;Financeiro
+BRIV4;BCO ALFA DE INVESTIMENTO S.A.;60.770.336/0001-65;Bancos;Financeiro
+BRKM3;BRASKEM S.A.;42.150.391/0001-70;Petroquímicos;Materiais Básicos
+BRKM5;BRASKEM S.A.;42.150.391/0001-70;Petroquímicos;Materiais Básicos
+BRKM6;BRASKEM S.A.;42.150.391/0001-70;Petroquímicos;Materiais Básicos
+BRML3;BR MALLS PARTICIPACOES S.A.;06.977.745/0001-91;Exploração de Imóveis;Financeiro
+BRPR3;BR PROPERTIES S.A.;06.977.751/0001-49;Exploração de Imóveis;Financeiro
+BRSR3;BCO ESTADO DO RIO GRANDE DO SUL S.A.;92.702.067/0001-96;Bancos;Financeiro
+BRSR5;BCO ESTADO DO RIO GRANDE DO SUL S.A.;92.702.067/0001-96;Bancos;Financeiro
+BRSR6;BCO ESTADO DO RIO GRANDE DO SUL S.A.;92.702.067/0001-96;Bancos;Financeiro
+BSLI3;BRB BCO DE BRASILIA S.A.;00.000.208/0001-00;Bancos;Financeiro
+BSLI4;BRB BCO DE BRASILIA S.A.;00.000.208/0001-00;Bancos;Financeiro
+CALI3;CONSTRUTORA ADOLPHO LINDENBERG S.A.;61.022.042/0001-18;Incorporações;Consumo Cíclico
+CALI4;CONSTRUTORA ADOLPHO LINDENBERG S.A.;61.022.042/0001-18;Incorporações;Consumo Cíclico
+CAMB3;CAMBUCI S.A.;61.088.894/0001-08;Calçados;Consumo Cíclico
+CAML3;CAMIL ALIMENTOS S.A.;64.904.295/0001-03;Alimentos Diversos;Consumo não Cíclico
+CARD3;CSU DIGITAL S.A.;01.896.779/0001-38;Serviços Financeiros Diversos;Financeiro
+CASH3;MÉLIUZ S.A.;14.110.585/0001-07;Programas e Serviços;Tecnologia da Informação
+CASN3;CIA CATARINENSE DE AGUAS E SANEAM.-CASAN;82.508.433/0001-17;Água e Saneamento;Utilidade Pública
+CASN4;CIA CATARINENSE DE AGUAS E SANEAM.-CASAN;82.508.433/0001-17;Água e Saneamento;Utilidade Pública
+CBAV3;Companhia Brasileira de Alumínio;61.409.892/0001-73;Minerais Metálicos;Materiais Básicos
+CBEE3;AMPLA ENERGIA E SERVICOS S.A.;33.050.071/0001-58;Energia Elétrica;Utilidade Pública
+CCRO3;CCR S.A.;02.846.056/0001-97;Exploração de Rodovias;Bens Industriais
+CEAB3;CEA MODAS S.A.;45.242.914/0001-05;Tecidos. Vestuário e Calçados;Consumo Cíclico
+CEBR3;CIA ENERGETICA DE BRASILIA;00.070.698/0001-11;Energia Elétrica;Utilidade Pública
+CEBR5;CIA ENERGETICA DE BRASILIA;00.070.698/0001-11;Energia Elétrica;Utilidade Pública
+CEBR6;CIA ENERGETICA DE BRASILIA;00.070.698/0001-11;Energia Elétrica;Utilidade Pública
+CEDO3;CIA FIACAO TECIDOS CEDRO CACHOEIRA;17.245.234/0001-00;Fios e Tecidos;Consumo Cíclico
+CEDO4;CIA FIACAO TECIDOS CEDRO CACHOEIRA;17.245.234/0001-00;Fios e Tecidos;Consumo Cíclico
+CEEB3;CIA ELETRICIDADE EST. DA BAHIA - COELBA;15.139.629/0001-94;Energia Elétrica;Utilidade Pública
+CEEB5;CIA ELETRICIDADE EST. DA BAHIA - COELBA;15.139.629/0001-94;Energia Elétrica;Utilidade Pública
+CEED3;CIA ESTADUAL DE DISTRIB ENER ELET-CEEE-D;08.467.115/0001-00;Energia Elétrica;Utilidade Pública
+CEED4;CIA ESTADUAL DE DISTRIB ENER ELET-CEEE-D;08.467.115/0001-00;Energia Elétrica;Utilidade Pública
+CEGR3;CIA DISTRIB DE GAS DO RIO DE JANEIRO-CEG;33.938.119/0001-69;Gás;Utilidade Pública
+CEPE3;CIA ENERGETICA DE PERNAMBUCO - CELPE;10.835.932/0001-08;Energia Elétrica;Utilidade Pública
+CEPE5;CIA ENERGETICA DE PERNAMBUCO - CELPE;10.835.932/0001-08;Energia Elétrica;Utilidade Pública
+CEPE6;CIA ENERGETICA DE PERNAMBUCO - CELPE;10.835.932/0001-08;Energia Elétrica;Utilidade Pública
+CGAS3;CIA GAS DE SAO PAULO - COMGAS;61.856.571/0001-17;Gás;Utilidade Pública
+CGAS5;CIA GAS DE SAO PAULO - COMGAS;61.856.571/0001-17;Gás;Utilidade Pública
+CGRA3;GRAZZIOTIN S.A.;92.012.467/0001-70;Tecidos. Vestuário e Calçados;Consumo Cíclico
+CGRA4;GRAZZIOTIN S.A.;92.012.467/0001-70;Tecidos. Vestuário e Calçados;Consumo Cíclico
+CIEL3;CIELO S.A. - INSTITUIÇÃO DE PAGAMENTO;01.027.058/0001-91;Serviços Financeiros Diversos;Financeiro
+CLSA3;CLEAR SALE S.A.;03.802.115/0001-98;Serviços Financeiros Diversos;Financeiro
+CLSC3;CENTRAIS ELET DE SANTA CATARINA S.A.;83.878.892/0001-55;Energia Elétrica;Utilidade Pública
+CLSC4;CENTRAIS ELET DE SANTA CATARINA S.A.;83.878.892/0001-55;Energia Elétrica;Utilidade Pública
+CMIG3;CIA ENERGETICA DE MINAS GERAIS - CEMIG;17.155.730/0001-64;Energia Elétrica;Utilidade Pública
+CMIG4;CIA ENERGETICA DE MINAS GERAIS - CEMIG;17.155.730/0001-64;Energia Elétrica;Utilidade Pública
+CMIN3;CSN MINERAÇÃO S.A.;08.902.291/0001-15;Minerais Metálicos;Materiais Básicos
+COCE3;CIA ENERGETICA DO CEARA - COELCE;07.047.251/0001-70;Energia Elétrica;Utilidade Pública
+COCE5;CIA ENERGETICA DO CEARA - COELCE;07.047.251/0001-70;Energia Elétrica;Utilidade Pública
+COCE6;CIA ENERGETICA DO CEARA - COELCE;07.047.251/0001-70;Energia Elétrica;Utilidade Pública
+COGN3;COGNA EDUCAÇÃO S.A.;02.800.026/0001-40;Serviços Educacionais;Consumo Cíclico
+CORR3;CORREA RIBEIRO S.A. COMERCIO E INDUSTRIA;15.101.405/0001-93;Exploração de Imóveis;Financeiro
+CORR4;CORREA RIBEIRO S.A. COMERCIO E INDUSTRIA;15.101.405/0001-93;Exploração de Imóveis;Financeiro
+CPFE3;CPFL ENERGIA S.A.;02.429.144/0001-93;Energia Elétrica;Utilidade Pública
+CPLE11;CIA PARANAENSE DE ENERGIA - COPEL;76.483.817/0001-20;Energia Elétrica;Utilidade Pública
+CPLE3;CIA PARANAENSE DE ENERGIA - COPEL;76.483.817/0001-20;Energia Elétrica;Utilidade Pública
+CPLE5;CIA PARANAENSE DE ENERGIA - COPEL;76.483.817/0001-20;Energia Elétrica;Utilidade Pública
+CPLE6;CIA PARANAENSE DE ENERGIA - COPEL;76.483.817/0001-20;Energia Elétrica;Utilidade Pública
+CRDE3;CR2 EMPREENDIMENTOS IMOBILIARIOS S.A.;07.820.907/0001-46;Incorporações;Consumo Cíclico
+CRFB3;ATACADÃO S.A.;75.315.333/0001-09;Alimentos;Consumo não Cíclico
+CRIV3;FINANCEIRA ALFA S.A.- CRED FINANC E INVS;17.167.412/0001-13;Soc. Crédito e Financiamento;Financeiro
+CRIV4;FINANCEIRA ALFA S.A.- CRED FINANC E INVS;17.167.412/0001-13;Soc. Crédito e Financiamento;Financeiro
+CRPG3;TRONOX PIGMENTOS DO BRASIL S.A.;15.115.504/0001-24;Químicos Diversos;Materiais Básicos
+CRPG5;TRONOX PIGMENTOS DO BRASIL S.A.;15.115.504/0001-24;Químicos Diversos;Materiais Básicos
+CRPG6;TRONOX PIGMENTOS DO BRASIL S.A.;15.115.504/0001-24;Químicos Diversos;Materiais Básicos
+CSAB3;CIA SEGUROS ALIANCA DA BAHIA;15.144.017/0001-90;Seguradoras;Financeiro
+CSAB4;CIA SEGUROS ALIANCA DA BAHIA;15.144.017/0001-90;Seguradoras;Financeiro
+CSAN3;COSAN S.A.;50.746.577/0001-15;Exploração. Refino e Distribuição;Petróleo. Gás e Biocombustíveis
+CSED3;CRUZEIRO DO SUL EDUCACIONAL S.A.;62.984.091/0001-02;Serviços Educacionais;Consumo Cíclico
+CSMG3;CIA SANEAMENTO DE MINAS GERAIS-COPASA MG;17.281.106/0001-03;Água e Saneamento;Utilidade Pública
+CSNA3;CIA SIDERURGICA NACIONAL;33.042.730/0001-04;Siderurgia;Materiais Básicos
+CSRN3;CIA ENERGETICA DO RIO GDE NORTE - COSERN;08.324.196/0001-81;Energia Elétrica;Utilidade Pública
+CSRN5;CIA ENERGETICA DO RIO GDE NORTE - COSERN;08.324.196/0001-81;Energia Elétrica;Utilidade Pública
+CSRN6;CIA ENERGETICA DO RIO GDE NORTE - COSERN;08.324.196/0001-81;Energia Elétrica;Utilidade Pública
+CSUD3;CSU DIGITAL S.A.;01.896.779/0001-38;Serviços Financeiros Diversos;Financeiro
+CTKA3;KARSTEN S.A.;82.640.558/0001-04;Fios e Tecidos;Consumo Cíclico
+CTKA4;KARSTEN S.A.;82.640.558/0001-04;Fios e Tecidos;Consumo Cíclico
+CTNM3;CIA TECIDOS NORTE DE MINAS COTEMINAS;22.677.520/0001-76;Fios e Tecidos;Consumo Cíclico
+CTNM4;CIA TECIDOS NORTE DE MINAS COTEMINAS;22.677.520/0001-76;Fios e Tecidos;Consumo Cíclico
+CTSA3;CIA TECIDOS SANTANENSE;21.255.567/0001-89;Fios e Tecidos;Consumo Cíclico
+CTSA4;CIA TECIDOS SANTANENSE;21.255.567/0001-89;Fios e Tecidos;Consumo Cíclico
+CURY3;CURY CONSTRUTORA E INCORPORADORA S.A.;08.797.760/0001-83;Incorporações;Consumo Cíclico
+CVCB3;CVC BRASIL OPERADORA E AGÊNCIA DE VIAGENS S.A.;10.760.260/0001-19;Viagens e Turismo;Consumo Cíclico
+CXSE3;CAIXA SEGURIDADE PARTICIPAÇÕES S.A.;22.543.331/0001-00;Seguradoras;Financeiro
+CYRE3;CYRELA BRAZIL REALTY S.A.EMPREEND E PART;73.178.600/0001-18;Incorporações;Consumo Cíclico
+DASA3;DIAGNOSTICOS DA AMERICA S.A.;61.486.650/0001-83;Serv.Méd.Hospit..Análises e Diagnósticos;Saúde
+DESK3;DESKTOP S.A.;08.170.849/0001-15;Telecomunicações;Comunicações
+DEXP3;DEXXOS PARTICIPACOES S.A.;02.193.750/0001-52;Petroquímicos;Materiais Básicos
+DEXP4;DEXXOS PARTICIPACOES S.A.;02.193.750/0001-52;Petroquímicos;Materiais Básicos
+DIRR3;DIRECIONAL ENGENHARIA S.A.;16.614.075/0001-00;Incorporações;Consumo Cíclico
+DMFN3;DM FINANCEIRA S.A. - CRÉDITO. FINANC E INVEST;91.669.747/0001-92;Soc. Crédito e Financiamento;Financeiro
+DMMO3;DOMMO ENERGIA S.A.;08.926.302/0001-05;Exploração. Refino e Distribuição;Petróleo. Gás e Biocombustíveis
+DMVF3;D1000 VAREJO FARMA PARTICIPAÇÕES S.A.;12.108.897/0001-50;Medicamentos e Outros Produtos;Saúde
+DOHL3;DOHLER S.A.;84.683.408/0001-03;Fios e Tecidos;Consumo Cíclico
+DOHL4;DOHLER S.A.;84.683.408/0001-03;Fios e Tecidos;Consumo Cíclico
+DOTZ3;DOTZ S.A.;18.174.270/0001-84;Programas de Fidelização;Consumo Cíclico
+DTCY3;DTCOM - DIRECT TO COMPANY S.A.;03.303.999/0001-36;Serviços Diversos;Bens Industriais
+DXCO3;DEXCO S.A.;97.837.181/0001-47;Madeira;Materiais Básicos
+EALT3;ELECTRO ACO ALTONA S.A.;82.643.537/0001-34;Máq. e Equip. Industriais;Bens Industriais
+EALT4;ELECTRO ACO ALTONA S.A.;82.643.537/0001-34;Máq. e Equip. Industriais;Bens Industriais
+ECOR3;ECORODOVIAS INFRAESTRUTURA E LOGÍSTICA S.A.;04.149.454/0001-80;Exploração de Rodovias;Bens Industriais
+EEEL3;CIA ESTADUAL DE TRANSMISSÃO DE ENER. ELET-CEEE-T;92.715.812/0001-31;Energia Elétrica;Utilidade Pública
+EEEL4;CIA ESTADUAL DE TRANSMISSÃO DE ENER. ELET-CEEE-T;92.715.812/0001-31;Energia Elétrica;Utilidade Pública
+EGIE3;ENGIE BRASIL ENERGIA S.A.;02.474.103/0001-19;Energia Elétrica;Utilidade Pública
+EKTR3;ELEKTRO REDES S.A.;02.328.280/0001-97;Energia Elétrica;Utilidade Pública
+EKTR4;ELEKTRO REDES S.A.;02.328.280/0001-97;Energia Elétrica;Utilidade Pública
+ELET3;CENTRAIS ELET BRAS S.A. - ELETROBRAS;00.001.180/0001-26;Energia Elétrica;Utilidade Pública
+ELET5;CENTRAIS ELET BRAS S.A. - ELETROBRAS;00.001.180/0001-26;Energia Elétrica;Utilidade Pública
+ELET6;CENTRAIS ELET BRAS S.A. - ELETROBRAS;00.001.180/0001-26;Energia Elétrica;Utilidade Pública
+ELMD3;ELETROMIDIA S.A.;09.347.516/0001-81;Publicidade e Propaganda;Comunicações
+EMAE3;EMAE - EMPRESA METROP.AGUAS ENERGIA S.A.;02.302.101/0001-42;Energia Elétrica;Utilidade Pública
+EMAE4;EMAE - EMPRESA METROP.AGUAS ENERGIA S.A.;02.302.101/0001-42;Energia Elétrica;Utilidade Pública
+EMBR3;EMBRAER S.A.;07.689.002/0001-89;Material Aeronáutico e de Defesa;Bens Industriais
+ENAT3;ENAUTA PARTICIPAÇÕES S.A.;11.669.021/0001-10;Exploração. Refino e Distribuição;Petróleo. Gás e Biocombustíveis
+ENBR3;EDP - ENERGIAS DO BRASIL S.A.;03.983.431/0001-03;Energia Elétrica;Utilidade Pública
+ENEV3;ENEVA S.A;04.423.567/0001-21;Energia Elétrica;Utilidade Pública
+ENGI11;ENERGISA S.A.;00.864.214/0001-06;Energia Elétrica;Utilidade Pública
+ENGI3;ENERGISA S.A.;00.864.214/0001-06;Energia Elétrica;Utilidade Pública
+ENGI4;ENERGISA S.A.;00.864.214/0001-06;Energia Elétrica;Utilidade Pública
+ENJU3;ENJOEI S.A.;16.922.038/0001-51;Programas e Serviços;Tecnologia da Informação
+ENMT3;ENERGISA MATO GROSSO-DISTRIBUIDORA DE ENERGIA S/A;03.467.321/0001-99;Energia Elétrica;Utilidade Pública
+ENMT4;ENERGISA MATO GROSSO-DISTRIBUIDORA DE ENERGIA S/A;03.467.321/0001-99;Energia Elétrica;Utilidade Pública
+EPAR3;EMBPAR PARTICIPACOES S.A.;42.331.462/0001-31;Material de Transporte;Bens Industriais
+EQMA3B;EQUATORIAL MARANHÃO DISTRIBUIDORA DE ENERGIA S.A.;06.272.793/0001-84;Energia Elétrica;Utilidade Pública
+EQPA3;EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA S.A.;04.895.728/0001-80;Energia Elétrica;Utilidade Pública
+EQPA5;EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA S.A.;04.895.728/0001-80;Energia Elétrica;Utilidade Pública
+EQPA6;EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA S.A.;04.895.728/0001-80;Energia Elétrica;Utilidade Pública
+EQPA7;EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA S.A.;04.895.728/0001-80;Energia Elétrica;Utilidade Pública
+EQTL3;EQUATORIAL ENERGIA S.A.;03.220.438/0001-73;Energia Elétrica;Utilidade Pública
+ESPA3;MPM CORPÓREOS S.A.;26.659.061/0001-59;Produtos Diversos;Consumo Cíclico
+ESTR3;MANUFATURA DE BRINQUEDOS ESTRELA S.A.;61.082.004/0001-50;Brinquedos e Jogos;Consumo Cíclico
+ESTR4;MANUFATURA DE BRINQUEDOS ESTRELA S.A.;61.082.004/0001-50;Brinquedos e Jogos;Consumo Cíclico
+ETER3;ETERNIT S.A.;61.092.037/0001-81;Produtos para Construção;Bens Industriais
+EUCA3;EUCATEX S.A. INDUSTRIA E COMERCIO;56.643.018/0001-66;Madeira;Materiais Básicos
+EUCA4;EUCATEX S.A. INDUSTRIA E COMERCIO;56.643.018/0001-66;Madeira;Materiais Básicos
+EVEN3;EVEN CONSTRUTORA E INCORPORADORA S.A.;43.470.988/0001-65;Incorporações;Consumo Cíclico
+EZTC3;EZ TEC EMPREEND. E PARTICIPACOES S.A.;08.312.229/0001-73;Incorporações;Consumo Cíclico
+FESA3;CIA FERRO LIGAS DA BAHIA - FERBASA;15.141.799/0001-03;Siderurgia;Materiais Básicos
+FESA4;CIA FERRO LIGAS DA BAHIA - FERBASA;15.141.799/0001-03;Siderurgia;Materiais Básicos
+FHER3;FERTILIZANTES HERINGER S.A.;22.266.175/0001-88;Fertilizantes e Defensivos;Materiais Básicos
+FIGE3;INVESTIMENTOS BEMGE S.A.;01.548.981/0001-79;Outros;Outros
+FIGE4;INVESTIMENTOS BEMGE S.A.;01.548.981/0001-79;Outros;Outros
+FIQE3;UNIFIQUE TELECOMUNICAÇÕES S.A.;02.255.187/0001-08;Telecomunicações;Comunicações
+FLRY3;FLEURY S.A.;60.840.055/0001-31;Serv.Méd.Hospit..Análises e Diagnósticos;Saúde
+FNCN3;FINANSINOS S.A.- CREDITO FINANC E INVEST;91.669.747/0001-92;Soc. Crédito e Financiamento;Financeiro
+FRAS3;FRAS-LE S.A.;88.610.126/0001-29;Material Rodoviário;Bens Industriais
+FRIO3;METALFRIO SOLUTIONS S.A.;04.821.041/0001-08;Máq. e Equip. Industriais;Bens Industriais
+FRTA3;POMIFRUTAS S/A;86.550.951/0001-50;Agricultura;Consumo não Cíclico
+GEPA3;RIO PARANAPANEMA ENERGIA S.A.;02.998.301/0001-81;Energia Elétrica;Utilidade Pública
+GEPA4;RIO PARANAPANEMA ENERGIA S.A.;02.998.301/0001-81;Energia Elétrica;Utilidade Pública
+GETT11;GETNET ADQ. E SERV MEIOS DE PGTO S.A - INST PGTO.;10.440.482/0001-54;Serviços Financeiros Diversos;Financeiro
+GETT3;GETNET ADQ. E SERV MEIOS DE PGTO S.A - INST PGTO.;10.440.482/0001-54;Serviços Financeiros Diversos;Financeiro
+GETT4;GETNET ADQ. E SERV MEIOS DE PGTO S.A - INST PGTO.;10.440.482/0001-54;Serviços Financeiros Diversos;Financeiro
+GFSA3;GAFISA S.A.;01.545.826/0001-07;Incorporações;Consumo Cíclico
+GGBR3;GERDAU S.A.;33.611.500/0001-19;Siderurgia;Materiais Básicos
+GGBR4;GERDAU S.A.;33.611.500/0001-19;Siderurgia;Materiais Básicos
+GGPS3;GPS PARTICIPACOES E EMPREENDIMENTOS S.A.;09.229.201/0001-30;Serviços Diversos;Bens Industriais
+GMAT3;GRUPO MATEUS S.A.;24.990.777/0001-09;Alimentos;Consumo não Cíclico
+GOAU3;METALURGICA GERDAU S.A.;92.690.783/0001-09;Siderurgia;Materiais Básicos
+GOAU4;METALURGICA GERDAU S.A.;92.690.783/0001-09;Siderurgia;Materiais Básicos
+GOLL4;GOL LINHAS AEREAS INTELIGENTES S.A.;06.164.253/0001-87;Transporte Aéreo;Bens Industriais
+GPAR3;CIA CELG DE PARTICIPACOES - CELGPAR;08.560.444/0001-93;Energia Elétrica;Utilidade Pública
+GRND3;GRENDENE S.A.;89.850.341/0001-60;Calçados;Consumo Cíclico
+GSHP3;GENERAL SHOPPING E OUTLETS DO BRASIL S.A.;08.764.621/0001-53;Exploração de Imóveis;Financeiro
+GUAR3;GUARARAPES CONFECCOES S.A.;08.402.943/0001-52;Tecidos. Vestuário e Calçados;Consumo Cíclico
+HAGA3;HAGA S.A. INDUSTRIA E COMERCIO;30.540.991/0001-66;Produtos para Construção;Bens Industriais
+HAGA4;HAGA S.A. INDUSTRIA E COMERCIO;30.540.991/0001-66;Produtos para Construção;Bens Industriais
+HAPV3;HAPVIDA PARTICIPACOES E INVESTIMENTOS SA;05.197.443/0001-38;Serv.Méd.Hospit..Análises e Diagnósticos;Saúde
+HBOR3;HELBOR EMPREENDIMENTOS S.A.;49.263.189/0001-02;Incorporações;Consumo Cíclico
+HBRE3;HBR REALTY EMPREENDIMENTOS IMOBILIARIOS S/A;14.785.152/0001-51;Exploração de Imóveis;Financeiro
+HBSA3;HIDROVIAS DO BRASIL S.A.;12.648.327/0001-53;Transporte Hidroviário;Bens Industriais
+HBTS5;CIA HABITASUL DE PARTICIPACOES;87.762.563/0001-03;Exploração de Imóveis;Financeiro
+HETA3;HERCULES S.A. FABRICA DE TALHERES;92.749.225/0001-63;Utensílios Domésticos;Consumo Cíclico
+HETA4;HERCULES S.A. FABRICA DE TALHERES;92.749.225/0001-63;Utensílios Domésticos;Consumo Cíclico
+HOOT4;HOTEIS OTHON S.A.;33.200.049/0001-47;Hotelaria;Consumo Cíclico
+HYPE3;HYPERA S.A.;02.932.074/0001-91;Medicamentos e Outros Produtos;Saúde
+IFCM3;INFRACOMMERCE CXAAS S.A.;38.456.921/0001-36;Programas e Serviços;Tecnologia da Informação
+IGBR3;IGB ELETRÔNICA S/A;43.185.362/0001-07;Exploração de Imóveis;Financeiro
+IGTI11;IGUATEMI S.A.;60.543.816/0001-93;Exploração de Imóveis;Financeiro
+IGTI3;IGUATEMI S.A.;60.543.816/0001-93;Exploração de Imóveis;Financeiro
+IGTI4;IGUATEMI S.A.;60.543.816/0001-93;Exploração de Imóveis;Financeiro
+INEP3;INEPAR S.A. INDUSTRIA E CONSTRUCOES;76.627.504/0001-06;Máq. e Equip. Industriais;Bens Industriais
+INEP4;INEPAR S.A. INDUSTRIA E CONSTRUCOES;76.627.504/0001-06;Máq. e Equip. Industriais;Bens Industriais
+IRBR3;IRB - BRASIL RESSEGUROS S.A.;33.376.989/0001-91;Resseguradoras;Financeiro
+ITSA3;ITAUSA S.A.;61.532.644/0001-15;Bancos;Financeiro
+ITSA4;ITAUSA S.A.;61.532.644/0001-15;Bancos;Financeiro
+ITUB3;ITAU UNIBANCO HOLDING S.A.;60.872.504/0001-23;Bancos;Financeiro
+ITUB4;ITAU UNIBANCO HOLDING S.A.;60.872.504/0001-23;Bancos;Financeiro
+JALL3;JALLES MACHADO S.A.;02.635.522/0001-95;Açucar e Alcool;Consumo não Cíclico
+JBSS3;JBS S.A.;02.916.265/0001-60;Carnes e Derivados;Consumo não Cíclico
+JFEN3;JOAO FORTES ENGENHARIA S.A.;33.035.536/0001-00;Incorporações;Consumo Cíclico
+JHSF3;JHSF PARTICIPACOES S.A.;08.294.224/0001-65;Incorporações;Consumo Cíclico
+JOPA3;JOSAPAR-JOAQUIM OLIVEIRA S.A. - PARTICIP;87.456.562/0001-22;Alimentos Diversos;Consumo não Cíclico
+JOPA4;JOSAPAR-JOAQUIM OLIVEIRA S.A. - PARTICIP;87.456.562/0001-22;Alimentos Diversos;Consumo não Cíclico
+JSLG3;JSL S.A.;52.548.435/0001-79;Transporte Rodoviário;Bens Industriais
+KEPL3;KEPLER WEBER S.A.;91.983.056/0001-69;Máq. e Equip. Industriais;Bens Industriais
+KLBN11;KLABIN S.A.;89.637.490/0001-45;Papel e Celulose;Materiais Básicos
+KLBN3;KLABIN S.A.;89.637.490/0001-45;Papel e Celulose;Materiais Básicos
+KLBN4;KLABIN S.A.;89.637.490/0001-45;Papel e Celulose;Materiais Básicos
+KRSA3;KORA SAÚDE PARTICIPAÇÕES S.A;13.270.520/0001-66;Serv.Méd.Hospit..Análises e Diagnósticos;Saúde
+LAND3;Terra Santa Propriedades Agricolas S.A.;40.337.136/0001-06;Agricultura;Consumo não Cíclico
+LAVV3;LAVVI EMPREENDIMENTOS IMOBILIÁRIOS S.A.;26.462.693/0001-28;Incorporações;Consumo Cíclico
+LCAM3;CIA LOCAÇÃO DAS AMÉRICAS;10.215.988/0001-60;Aluguel de carros;Consumo Cíclico
+LEVE3;MAHLE-METAL LEVE S.A.;60.476.884/0001-87;Automóveis e Motocicletas;Consumo Cíclico
+LIGT3;LIGHT S.A.;03.378.521/0001-75;Energia Elétrica;Utilidade Pública
+LIPR3;ELETROBRÁS PARTICIPAÇÕES S.A. - ELETROPAR;01.104.937/0001-70;Energia Elétrica;Utilidade Pública
+LJQQ3;LOJAS QUERO-QUERO S/A;96.418.264/0218-02;Produtos Diversos;Consumo Cíclico
+LLIS3;RESTOQUE COMÉRCIO E CONFECÇÕES DE ROUPAS S.A.;49.669.856/0001-43;Tecidos. Vestuário e Calçados;Consumo Cíclico
+LOGG3;LOG COMMERCIAL PROPERTIES;09.041.168/0001-10;Exploração de Imóveis;Financeiro
+LOGN3;LOG-IN LOGISTICA INTERMODAL S.A.;42.278.291/0001-24;Transporte Hidroviário;Bens Industriais
+LPSB3;LPS BRASIL - CONSULTORIA DE IMOVEIS S.A.;08.078.847/0001-09;Intermediação Imobiliária;Financeiro
+LREN3;LOJAS RENNER S.A.;92.754.738/0001-62;Tecidos. Vestuário e Calçados;Consumo Cíclico
+LUPA3;LUPATECH S.A.;89.463.822/0001-12;Equipamentos e Serviços;Petróleo. Gás e Biocombustíveis
+LUXM3;TREVISA INVESTIMENTOS S.A.;92.660.570/0001-26;Transporte Hidroviário;Bens Industriais
+LUXM4;TREVISA INVESTIMENTOS S.A.;92.660.570/0001-26;Transporte Hidroviário;Bens Industriais
+LVTC3;LIVETECH DA BAHIA INDUSTRIA E COMERCIO S/A;05.917.486/0001-40;Programas e Serviços;Tecnologia da Informação
+LWSA3;LOCAWEB SERVIÇOS DE INTERNET S.A.;02.351.877/0001-52;Programas e Serviços;Tecnologia da Informação
+MAPT3;CEMEPE INVESTIMENTOS S.A.;93.828.986/0001-73;Outros;Outros
+MAPT4;CEMEPE INVESTIMENTOS S.A.;93.828.986/0001-73;Outros;Outros
+MATD3;HOSPITAL MATER DEI S/A;16.676.520/0001-59;Serv.Méd.Hospit..Análises e Diagnósticos;Saúde
+MBLY3;MOBLY S.A.;31.553.627/0001-01;Programas e Serviços;Tecnologia da Informação
+MDIA3;M.DIAS BRANCO S.A. IND COM DE ALIMENTOS;07.206.816/0001-15;Alimentos Diversos;Consumo não Cíclico
+MDNE3;MOURA DUBEUX ENGENHARIA S/A;12.049.631/0001-84;Incorporações;Consumo Cíclico
+MEAL3;INTERNATIONAL MEAL COMPANY ALIMENTACAO S.A.;17.314.329/0001-20;Restaurante e Similares;Consumo Cíclico
+MEGA3;OMEGA ENERGIA S.A.;42.500.384/0001-51;Energia Elétrica;Utilidade Pública
+MELK3;MELNICK DESENVOLVIMENTO IMOBILIÁRIO S.A.;12.181.987/0001-77;Incorporações;Consumo Cíclico
+MERC3;CREDITAQUI FINANCEIRA S.A.  CRÉDITO. FINANCIAMENT;33.040.601/0001-87;Soc. Crédito e Financiamento;Financeiro
+MERC4;CREDITAQUI FINANCEIRA S.A.  CRÉDITO. FINANCIAMENT;33.040.601/0001-87;Soc. Crédito e Financiamento;Financeiro
+MGEL3;MANGELS INDUSTRIAL S.A.;61.065.298/0001-02;Artefatos de Ferro e Aço;Materiais Básicos
+MGEL4;MANGELS INDUSTRIAL S.A.;61.065.298/0001-02;Artefatos de Ferro e Aço;Materiais Básicos
+MGLU3;MAGAZINE LUIZA S.A.;47.960.950/0001-21;Eletrodomésticos;Consumo Cíclico
+MILS3;MILLS LOCAÇÃO. SERVIÇOS E LOGÍSTICA S.A;27.093.558/0001-15;Máq. e Equip. Industriais;Bens Industriais
+MLAS3;MULTILASER INDUSTRIAL S.A.;59.717.553/0001-02;Computadores e Equipamentos;Tecnologia da Informação
+MMXM11;MMX MINERACAO E METALICOS S.A.;02.762.115/0001-49;Minerais Metálicos;Materiais Básicos
+MMXM3;MMX MINERACAO E METALICOS S.A.;02.762.115/0001-49;Minerais Metálicos;Materiais Básicos
+MNDL3;MUNDIAL S.A. - PRODUTOS DE CONSUMO;88.610.191/0001-54;Acessórios;Consumo Cíclico
+MNPR3;MINUPAR PARTICIPACOES S.A.;90.076.886/0001-40;Carnes e Derivados;Consumo não Cíclico
+MOAR3;MONTEIRO ARANHA S.A.;33.102.476/0001-92;Holdings Diversificadas;Financeiro
+MODL11;BANCO MODAL S.A;30.723.886/0001-62;Bancos;Financeiro
+MODL3;BANCO MODAL S.A;30.723.886/0001-62;Bancos;Financeiro
+MODL4;BANCO MODAL S.A;30.723.886/0001-62;Bancos;Financeiro
+MOVI3;MOVIDA PARTICIPACOES SA;21.314.559/0001-66;Aluguel de carros;Consumo Cíclico
+MRFG3;MARFRIG GLOBAL FOODS S.A.;03.853.896/0001-40;Carnes e Derivados;Consumo não Cíclico
+MRSA3B;MRS LOGISTICA S.A.;01.417.222/0001-77;Transporte Ferroviário;Bens Industriais
+MRSA5B;MRS LOGISTICA S.A.;01.417.222/0001-77;Transporte Ferroviário;Bens Industriais
+MRSA6B;MRS LOGISTICA S.A.;01.417.222/0001-77;Transporte Ferroviário;Bens Industriais
+MRVE3;MRV ENGENHARIA E PARTICIPACOES S.A.;08.343.492/0001-20;Incorporações;Consumo Cíclico
+MSPA3;CIA MELHORAMENTOS DE SAO PAULO;60.730.348/0001-66;Papel e Celulose;Materiais Básicos
+MSPA4;CIA MELHORAMENTOS DE SAO PAULO;60.730.348/0001-66;Papel e Celulose;Materiais Básicos
+MTIG3;METALGRAFICA IGUACU S.A.;80.227.184/0001-66;Embalagens;Materiais Básicos
+MTIG4;METALGRAFICA IGUACU S.A.;80.227.184/0001-66;Embalagens;Materiais Básicos
+MTRE3;MITRE REALTY EMPREENDIMENTOS E PARTICIPAÇÕES S.A.;07.882.930/0001-65;Incorporações;Consumo Cíclico
+MTSA3;METISA METALURGICA TIMBOENSE S.A.;86.375.425/0001-09;Máq. e Equip. Construção e Agrícolas;Bens Industriais
+MTSA4;METISA METALURGICA TIMBOENSE S.A.;86.375.425/0001-09;Máq. e Equip. Construção e Agrícolas;Bens Industriais
+MULT3;MULTIPLAN - EMPREEND IMOBILIARIOS S.A.;07.816.890/0001-53;Exploração de Imóveis;Financeiro
+MWET3;WETZEL S.A.;84.683.671/0001-94;Material Rodoviário;Bens Industriais
+MWET4;WETZEL S.A.;84.683.671/0001-94;Material Rodoviário;Bens Industriais
+MYPK3;IOCHPE MAXION S.A.;61.156.113/0001-75;Automóveis e Motocicletas;Consumo Cíclico
+NEOE3;NEOENERGIA S.A.;01.083.200/0001-18;Energia Elétrica;Utilidade Pública
+NEXP3;NEXPE PARTICIPAÇÕES S.A;08.613.550/0001-98;Intermediação Imobiliária;Financeiro
+NGRD3;NEOGRID PARTICIPACOES S.A.;10.139.870/0001-08;Programas e Serviços;Tecnologia da Informação
+NINJ3;GETNINJAS S.A.;14.127.813/0001-51;Programas e Serviços;Tecnologia da Informação
+NORD3;NORDON INDUSTRIAS METALURGICAS S.A.;60.884.319/0001-59;Máq. e Equip. Industriais;Bens Industriais
+NTCO3;NATURA &CO HOLDING S.A.;32.785.497/0001-97;Produtos de Uso Pessoal;Consumo não Cíclico
+NUTR3;NUTRIPLANT INDUSTRIA E COMERCIO S.A.;51.128.999/0001-90;Fertilizantes e Defensivos;Materiais Básicos
+ODER4;CONSERVAS ODERICH S.A.;97.191.902/0001-94;Alimentos Diversos;Consumo não Cíclico
+ODPV3;ODONTOPREV S.A.;58.119.199/0001-51;Serv.Méd.Hospit..Análises e Diagnósticos;Saúde
+OFSA3;OURO FINO SAUDE ANIMAL PARTICIPACOES S.A.;20.258.278/0001-70;Medicamentos e Outros Produtos;Saúde
+OIBR3;OI S.A.;76.535.764/0001-43;Telecomunicações;Comunicações
+OIBR4;OI S.A.;76.535.764/0001-43;Telecomunicações;Comunicações
+ONCO3;ONCOCLINICAS DO BRASIL SERVICOS MEDICOS  S.A.;12.104.241/0004-02;Serv.Méd.Hospit..Análises e Diagnósticos;Saúde
+OPCT3;OCEANPACT SERVICOS MARITIMOS S.A.;09.114.805/0001-30;Equipamentos e Serviços;Petróleo. Gás e Biocombustíveis
+ORVR3;ORIZON VALORIZACAO DE RESIDUOS S.A.;11.421.994/0001-36;Água e Saneamento;Utilidade Pública
+OSXB3;OSX BRASIL S.A.;09.112.685/0001-32;Equipamentos e Serviços;Petróleo. Gás e Biocombustíveis
+PARD3;INSTITUTO HERMES PARDINI S.A.;19.378.769/0001-76;Serv.Méd.Hospit..Análises e Diagnósticos;Saúde
+PATI3;PANATLANTICA S.A.;92.693.019/0001-89;Artefatos de Ferro e Aço;Materiais Básicos
+PATI4;PANATLANTICA S.A.;92.693.019/0001-89;Artefatos de Ferro e Aço;Materiais Básicos
+PCAR3;CIA BRASILEIRA DE DISTRIBUICAO;47.508.411/0001-56;Alimentos;Consumo não Cíclico
+PDGR3;PDG REALTY S.A. EMPREEND E PARTICIPACOES;02.950.811/0001-89;Incorporações;Consumo Cíclico
+PDTC3;PADTEC HOLDING S.A.;02.365.069/0001-44;Programas e Serviços;Tecnologia da Informação
+PEAB3;CIA PARTICIPACOES ALIANCA DA BAHIA;01.938.783/0001-11;Holdings Diversificadas;Financeiro
+PEAB4;CIA PARTICIPACOES ALIANCA DA BAHIA;01.938.783/0001-11;Holdings Diversificadas;Financeiro
+PETR3;PETROLEO BRASILEIRO S.A. PETROBRAS;33.000.167/0001-01;Exploração. Refino e Distribuição;Petróleo. Gás e Biocombustíveis
+PETR4;PETROLEO BRASILEIRO S.A. PETROBRAS;33.000.167/0001-01;Exploração. Refino e Distribuição;Petróleo. Gás e Biocombustíveis
+PETZ3;PET CENTER COMERCIO  E PARTICIPACOES S.A.;18.328.118/0001-09;Produtos Diversos;Consumo Cíclico
+PFRM3;PROFARMA DISTRIB PROD FARMACEUTICOS S.A.;45.453.214/0001-51;Medicamentos e Outros Produtos;Saúde
+PGMN3;EMPREENDIMENTOS PAGUE MENOS S.A.;06.626.253/0001-51;Medicamentos e Outros Produtos;Saúde
+PINE4;BCO PINE S.A.;62.144.175/0001-20;Bancos;Financeiro
+PLAS3;PLASCAR PARTICIPACOES INDUSTRIAIS S.A.;51.928.174/0001-50;Automóveis e Motocicletas;Consumo Cíclico
+PLPL3;PLANO & PLANO DESENVOLVIMENTO IMOBILIÁRIO S.A.;24.230.275/0001-80;Incorporações;Consumo Cíclico
+PMAM3;PARANAPANEMA S.A.;60.398.369/0004-79;Artefatos de Cobre;Materiais Básicos
+PNVL3;DIMED S.A. DISTRIBUIDORA DE MEDICAMENTOS;92.665.611/0001-77;Medicamentos e Outros Produtos;Saúde
+POMO3;MARCOPOLO S.A.;88.611.835/0001-29;Material Rodoviário;Bens Industriais
+POMO4;MARCOPOLO S.A.;88.611.835/0001-29;Material Rodoviário;Bens Industriais
+PORT3;WILSON SONS HOLDINGS BRASIL S.A.;33.130.691/0001-05;Serviços de Apoio e Armazenagem;Bens Industriais
+POSI3;POSITIVO TECNOLOGIA S.A.;81.243.735/0001-48;Computadores e Equipamentos;Tecnologia da Informação
+PRIO3;PETRO RIO S.A.;10.629.105/0001-68;Exploração. Refino e Distribuição;Petróleo. Gás e Biocombustíveis
+PRNR3;PRINER SERVIÇOS INDUSTRIAIS S.A.;18.593.815/0001-97;Serviços Diversos;Bens Industriais
+PSSA3;PORTO SEGURO S.A.;02.149.205/0001-69;Seguradoras;Financeiro
+PSVM11;PORTO SUDESTE V.M. S.A.;18.494.485/0001-82;Serviços de Apoio e Armazenagem;Bens Industriais
+PTBL3;PBG S/A;83.475.913/0001-91;Produtos para Construção;Bens Industriais
+PTNT3;PETTENATI S.A. INDUSTRIA TEXTIL;88.613.658/0001-10;Fios e Tecidos;Consumo Cíclico
+PTNT4;PETTENATI S.A. INDUSTRIA TEXTIL;88.613.658/0001-10;Fios e Tecidos;Consumo Cíclico
+QUAL3;QUALICORP CONSULTORIA E CORRETORA DE SEGUROS S.A.;11.992.680/0001-93;Serv.Méd.Hospit..Análises e Diagnósticos;Saúde
+RADL3;RAIA DROGASIL S.A.;61.585.865/0001-51;Medicamentos e Outros Produtos;Saúde
+RAIL3;RUMO S.A.;02.387.241/0001-60;Transporte Ferroviário;Bens Industriais
+RAIZ4;RAIZEN S.A.;33.453.598/0001-23;Agricultura;Consumo não Cíclico
+RANI3;IRANI PAPEL E EMBALAGEM S.A.;92.791.243/0001-03;Embalagens;Materiais Básicos
+RAPT3;RANDON S.A. IMPLEMENTOS E PARTICIPACOES;89.086.144/0001-16;Material Rodoviário;Bens Industriais
+RAPT4;RANDON S.A. IMPLEMENTOS E PARTICIPACOES;89.086.144/0001-16;Material Rodoviário;Bens Industriais
+RCSL3;RECRUSUL S.A.;91.333.666/0001-17;Material Rodoviário;Bens Industriais
+RCSL4;RECRUSUL S.A.;91.333.666/0001-17;Material Rodoviário;Bens Industriais
+RDNI3;RNI NEGÓCIOS IMOBILIÁRIOS S.A.;67.010.660/0001-24;Incorporações;Consumo Cíclico
+RDOR3;Rede DOr São Luiz S.A.;06.047.087/0001-39;Serv.Méd.Hospit..Análises e Diagnósticos;Saúde
+RECV3;PETRORECÔNCAVO S.A.;03.342.704/0001-30;Exploração. Refino e Distribuição;Petróleo. Gás e Biocombustíveis
+REDE3;REDE ENERGIA PARTICIPAÇÕES S.A.;61.584.140/0001-49;Energia Elétrica;Utilidade Pública
+RENT3;LOCALIZA RENT A CAR S.A.;16.670.085/0001-55;Aluguel de carros;Consumo Cíclico
+RNEW11;RENOVA ENERGIA S.A.;08.534.605/0001-74;Energia Elétrica;Utilidade Pública
+RNEW3;RENOVA ENERGIA S.A.;08.534.605/0001-74;Energia Elétrica;Utilidade Pública
+RNEW4;RENOVA ENERGIA S.A.;08.534.605/0001-74;Energia Elétrica;Utilidade Pública
+ROMI3;ROMI S.A.;56.720.428/0001-63;Máq. e Equip. Industriais;Bens Industriais
+RPAD3;ALFA HOLDINGS S.A.;17.167.396/0001-69;Bancos;Financeiro
+RPAD5;ALFA HOLDINGS S.A.;17.167.396/0001-69;Bancos;Financeiro
+RPAD6;ALFA HOLDINGS S.A.;17.167.396/0001-69;Bancos;Financeiro
+RPMG3;REFINARIA DE PETROLEOS MANGUINHOS S.A.;33.412.081/0001-96;Exploração. Refino e Distribuição;Petróleo. Gás e Biocombustíveis
+RRRP3;3R PETROLEUM ÓLEO E GÁS S.A;12.091.809/0001-55;Exploração. Refino e Distribuição;Petróleo. Gás e Biocombustíveis
+RSID3;ROSSI RESIDENCIAL S.A.;61.065.751/0001-80;Incorporações;Consumo Cíclico
+RSUL4;METALURGICA RIOSULENSE S.A.;85.778.074/0001-06;Material Rodoviário;Bens Industriais
+SANB11;BCO SANTANDER (BRASIL) S.A.;90.400.888/0001-42;Bancos;Financeiro
+SANB3;BCO SANTANDER (BRASIL) S.A.;90.400.888/0001-42;Bancos;Financeiro
+SANB4;BCO SANTANDER (BRASIL) S.A.;90.400.888/0001-42;Bancos;Financeiro
+SAPR11;CIA SANEAMENTO DO PARANA - SANEPAR;76.484.013/0001-45;Água e Saneamento;Utilidade Pública
+SAPR3;CIA SANEAMENTO DO PARANA - SANEPAR;76.484.013/0001-45;Água e Saneamento;Utilidade Pública
+SAPR4;CIA SANEAMENTO DO PARANA - SANEPAR;76.484.013/0001-45;Água e Saneamento;Utilidade Pública
+SBFG3;GRUPO SBF SA;13.217.485/0001-11;Produtos Diversos;Consumo Cíclico
+SBSP3;CIA SANEAMENTO BASICO EST SAO PAULO;43.776.517/0001-80;Água e Saneamento;Utilidade Pública
+SCAR3;SAO CARLOS EMPREEND E PARTICIPACOES S.A.;29.780.061/0001-09;Exploração de Imóveis;Financeiro
+SEER3;SER EDUCACIONAL S.A.;04.986.320/0001-13;Serviços Educacionais;Consumo Cíclico
+SEQL3;SEQUOIA LOGISTICA E TRANSPORTES S.A;01.599.101/0001-93;Serviços Diversos;Bens Industriais
+SGPS3;SPRINGS GLOBAL PARTICIPACOES S.A.;07.718.269/0001-57;Fios e Tecidos;Consumo Cíclico
+SHOW3;T4F ENTRETENIMENTO S.A.;02.860.694/0001-62;Produção de Eventos e Shows;Consumo Cíclico
+SHUL3;SCHULZ S.A.;84.693.183/0001-68;Motores . Compressores e Outros;Bens Industriais
+SHUL4;SCHULZ S.A.;84.693.183/0001-68;Motores . Compressores e Outros;Bens Industriais
+SIMH3;SIMPAR S.A.;07.415.333/0001-20;Holdings Diversificadas;Financeiro
+SLCE3;SLC AGRICOLA S.A.;89.096.457/0001-55;Agricultura;Consumo não Cíclico
+SLED3;SARAIVA LIVREIROS S.A. - EM RECUPERAÇÃO JUDICIAL;60.500.139/0001-26;Produtos Diversos;Consumo Cíclico
+SLED4;SARAIVA LIVREIROS S.A. - EM RECUPERAÇÃO JUDICIAL;60.500.139/0001-26;Produtos Diversos;Consumo Cíclico
+SMFT3;SMARTFIT ESCOLA DE GINÁSTICA E DANÇA S.A.;07.594.978/0001-78;Atividades Esportivas;Consumo Cíclico
+SMTO3;SAO MARTINHO S.A.;51.466.860/0001-56;Açucar e Alcool;Consumo não Cíclico
+SNSY3;SANSUY S.A. INDUSTRIA DE PLASTICOS;14.807.945/0001-24;Materiais Diversos;Materiais Básicos
+SNSY5;SANSUY S.A. INDUSTRIA DE PLASTICOS;14.807.945/0001-24;Materiais Diversos;Materiais Básicos
+SNSY6;SANSUY S.A. INDUSTRIA DE PLASTICOS;14.807.945/0001-24;Materiais Diversos;Materiais Básicos
+SOJA3;BOA SAFRA SEMENTES S.A.;10.807.374/0001-77;Agricultura;Consumo não Cíclico
+SOMA3;GRUPO DE MODA SOMA S.A.;10.285.590/0001-08;Tecidos. Vestuário e Calçados;Consumo Cíclico
+SOND3;SONDOTECNICA ENGENHARIA SOLOS S.A.;33.386.210/0001-19;Engenharia Consultiva;Bens Industriais
+SOND5;SONDOTECNICA ENGENHARIA SOLOS S.A.;33.386.210/0001-19;Engenharia Consultiva;Bens Industriais
+SOND6;SONDOTECNICA ENGENHARIA SOLOS S.A.;33.386.210/0001-19;Engenharia Consultiva;Bens Industriais
+SQIA3;SINQIA S.A.;04.065.791/0001-99;Programas e Serviços;Tecnologia da Informação
+STBP3;SANTOS BRASIL PARTICIPACOES S.A.;02.762.121/0001-04;Serviços de Apoio e Armazenagem;Bens Industriais
+SULA11;SUL AMERICA S.A.;29.978.814/0001-87;Seguradoras;Financeiro
+SULA3;SUL AMERICA S.A.;29.978.814/0001-87;Seguradoras;Financeiro
+SULA4;SUL AMERICA S.A.;29.978.814/0001-87;Seguradoras;Financeiro
+SUZB3;SUZANO S.A.;16.404.287/0001-55;Papel e Celulose;Materiais Básicos
+SYNE3;SYN PROP E TECH S.A.;08.801.621/0001-86;Exploração de Imóveis;Financeiro
+TAEE11;TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.;07.859.971/0001-30;Energia Elétrica;Utilidade Pública
+TAEE3;TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.;07.859.971/0001-30;Energia Elétrica;Utilidade Pública
+TAEE4;TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.;07.859.971/0001-30;Energia Elétrica;Utilidade Pública
+TASA3;TAURUS ARMAS S.A.;92.781.335/0001-02;Armas e Munições;Bens Industriais
+TASA4;TAURUS ARMAS S.A.;92.781.335/0001-02;Armas e Munições;Bens Industriais
+TCNO3;TECNOSOLO ENGENHARIA S.A.;33.111.246/0001-90;Engenharia Consultiva;Bens Industriais
+TCNO4;TECNOSOLO ENGENHARIA S.A.;33.111.246/0001-90;Engenharia Consultiva;Bens Industriais
+TCSA3;TECNISA S.A.;08.065.557/0001-12;Incorporações;Consumo Cíclico
+TECN3;TECHNOS S.A.;09.295.063/0001-97;Acessórios;Consumo Cíclico
+TEKA3;TEKA-TECELAGEM KUEHNRICH S.A.;82.636.986/0001-55;Fios e Tecidos;Consumo Cíclico
+TEKA4;TEKA-TECELAGEM KUEHNRICH S.A.;82.636.986/0001-55;Fios e Tecidos;Consumo Cíclico
+TELB3;TELEC BRASILEIRAS S.A. TELEBRAS;00.336.701/0001-04;Telecomunicações;Comunicações
+TELB4;TELEC BRASILEIRAS S.A. TELEBRAS;00.336.701/0001-04;Telecomunicações;Comunicações
+TEND3;CONSTRUTORA TENDA S.A.;71.476.527/0001-35;Incorporações;Consumo Cíclico
+TFCO4;TRACK & FIELD CO S.A.;59.418.806/0001-47;Vestuário;Consumo Cíclico
+TGMA3;TEGMA GESTAO LOGISTICA S.A.;02.351.144/0001-18;Transporte Rodoviário;Bens Industriais
+TIMS3;TIM S.A.;02.421.421/0001-11;Telecomunicações;Comunicações
+TKNO3;TEKNO S.A. - INDUSTRIA E COMERCIO;33.467.572/0001-34;Artefatos de Ferro e Aço;Materiais Básicos
+TKNO4;TEKNO S.A. - INDUSTRIA E COMERCIO;33.467.572/0001-34;Artefatos de Ferro e Aço;Materiais Básicos
+TOTS3;TOTVS S.A.;53.113.791/0001-22;Programas e Serviços;Tecnologia da Informação
+TPIS3;TPI - TRIUNFO PARTICIP. E INVEST. S.A.;03.014.553/0001-91;Exploração de Rodovias;Bens Industriais
+TRAD3;TC TRADERS CLUB S.A.;26.345.998/0001-50;Programas e Serviços;Tecnologia da Informação
+TRIS3;TRISUL S.A.;08.811.643/0001-27;Incorporações;Consumo Cíclico
+TRPL3;CTEEP - CIA TRANSMISSÃO ENERGIA ELÉTRICA PAULISTA;02.998.611/0001-04;Energia Elétrica;Utilidade Pública
+TRPL4;CTEEP - CIA TRANSMISSÃO ENERGIA ELÉTRICA PAULISTA;02.998.611/0001-04;Energia Elétrica;Utilidade Pública
+TTEN3;TRÊS TENTOS AGROINDUSTRIAL S/A;94.813.102/0001-70;Agricultura;Consumo não Cíclico
+TUPY3;TUPY S.A.;84.683.374/0001-49;Material Rodoviário;Bens Industriais
+TXRX3;TEXTIL RENAUXVIEW S.A.;82.982.075/0001-80;Fios e Tecidos;Consumo Cíclico
+TXRX4;TEXTIL RENAUXVIEW S.A.;82.982.075/0001-80;Fios e Tecidos;Consumo Cíclico
+UCAS3;UNICASA INDÚSTRIA DE MÓVEIS S.A.;90.441.460/0001-48;Móveis;Consumo Cíclico
+UGPA3;ULTRAPAR PARTICIPACOES S.A.;33.256.439/0001-39;Exploração. Refino e Distribuição;Petróleo. Gás e Biocombustíveis
+UNIP3;UNIPAR CARBOCLORO S.A.;33.958.695/0001-78;Químicos Diversos;Materiais Básicos
+UNIP5;UNIPAR CARBOCLORO S.A.;33.958.695/0001-78;Químicos Diversos;Materiais Básicos
+UNIP6;UNIPAR CARBOCLORO S.A.;33.958.695/0001-78;Químicos Diversos;Materiais Básicos
+USIM3;USINAS SID DE MINAS GERAIS S.A.-USIMINAS;60.894.730/0001-05;Siderurgia;Materiais Básicos
+USIM5;USINAS SID DE MINAS GERAIS S.A.-USIMINAS;60.894.730/0001-05;Siderurgia;Materiais Básicos
+USIM6;USINAS SID DE MINAS GERAIS S.A.-USIMINAS;60.894.730/0001-05;Siderurgia;Materiais Básicos
+VALE3;VALE S.A.;33.592.510/0001-54;Minerais Metálicos;Materiais Básicos
+VAMO3;VAMOS LOCAÇÃO DE CAMINHÕES. MÁQUINAS E EQUIP. S.A.;23.373.000/0001-32;Aluguel de carros;Consumo Cíclico
+VBBR3;VIBRA ENERGIA S.A.;34.274.233/0001-02;Exploração. Refino e Distribuição;Petróleo. Gás e Biocombustíveis
+VIIA3;VIA S.A;33.041.260/0652-90;Eletrodomésticos;Consumo Cíclico
+VITT3;VITTIA FERTILIZANTES E BIOLOGICOS S.A.;45.365.558/0001-09;Fertilizantes e Defensivos;Materiais Básicos
+VIVA3;VIVARA PARTICIPAÇOES S.A;33.839.910/0001-11;Acessórios;Consumo Cíclico
+VIVR3;VIVER INCORPORADORA E CONSTRUTORA S.A.;67.571.414/0001-41;Incorporações;Consumo Cíclico
+VIVT3;TELEFÔNICA BRASIL S.A;02.558.157/0001-62;Telecomunicações;Comunicações
+VLID3;VALID SOLUÇÕES S.A.;33.113.309/0001-47;Serviços Diversos;Bens Industriais
+VSPT3;FERROVIA CENTRO-ATLANTICA S.A.;00.924.429/0001-75;Transporte Ferroviário;Bens Industriais
+VULC3;VULCABRAS S.A.;50.926.955/0001-42;Calçados;Consumo Cíclico
+VVEO3;CM HOSPITALAR S.A.;12.420.164/0001-57;Medicamentos e Outros Produtos;Saúde
+WEGE3;WEG S.A.;84.429.695/0001-11;Motores . Compressores e Outros;Bens Industriais
+WEST3;WESTWING COMERCIO VAREJISTA S.A.;14.776.142/0001-50;Programas e Serviços;Tecnologia da Informação
+WHRL3;WHIRLPOOL S.A.;59.105.999/0001-86;Eletrodomésticos;Consumo Cíclico
+WHRL4;WHIRLPOOL S.A.;59.105.999/0001-86;Eletrodomésticos;Consumo Cíclico
+WIZS3;WIZ SOLUÇÕES E CORRETAGEM DE SEGUROS S.A.;42.278.473/0001-03;Corretoras de Seguros e Resseguros;Financeiro
+WLMM3;WLM PART. E COMÉRCIO DE MÁQUINAS E VEÍCULOS S.A.;33.228.024/0001-51;Material de Transporte;Bens Industriais
+WLMM4;WLM PART. E COMÉRCIO DE MÁQUINAS E VEÍCULOS S.A.;33.228.024/0001-51;Material de Transporte;Bens Industriais
+YDUQ3;YDUQS PARTICIPACOES S.A.;08.807.432/0001-10;Serviços Educacionais;Consumo Cíclico
+ZAMP3;ZAMP S.A.;13.574.594/0001-96;Restaurante e Similares;Consumo Cíclico
